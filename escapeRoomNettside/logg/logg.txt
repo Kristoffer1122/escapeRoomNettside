@@ -1,0 +1,8 @@
+24.2.25
+lagde bane en, nokkel og laas som man maa putte sammen for aa komme til neste banen.
+25.2 
+fikset funksjonalitenen til banen, algirdas lagde figma for flere baner.
+lagde rom to og fikset funksjonalitenen der, finne en 6 i ett hav av 8.
+26.2
+fikset opp level 2, jobbet med localstorage og linket nettsidene sammen.
+startet paa level 3, maa fikse canvas og at siden vet hvilken piksel farge er under musen
